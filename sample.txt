@@ -2,3 +2,7 @@ tahmina:hlw,how are u?
 sumon:i am fine,& u?
 sumon:hlw tahmina,are u practicing?
 tahmina:i am practicing git &github
+sumon:have u taken lunch?
+tahmina:not yet.
+sumon:ok,take care
+tahmina:same to u.

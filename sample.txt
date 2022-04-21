@@ -1,3 +1,4 @@
-hlw,how are u?
-i am fine,& u?
-hlw tahmina
+tahmina:hlw,how are u?
+sumon:i am fine,& u?
+sumon:hlw tahmina,are u practicing?
+tahmina:i am practicing git &github
